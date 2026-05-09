@@ -20,7 +20,7 @@ This project features a clean card layout, gradient header, centered form design
 
 ## 📸 Screenshot
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./Screenshot.png)
 
 ---
 
